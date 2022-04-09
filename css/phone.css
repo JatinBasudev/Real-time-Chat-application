@@ -1,0 +1,4 @@
+#send-container{
+    display:flex;
+    flex-wrap: nowrap;
+}
